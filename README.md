@@ -7,6 +7,14 @@ Features:
 - Optimized (Update rate is configurable)
 - Simple & Easy to setup!
 
+Dependends:
+- ViaVersion
+
+Libs to compile this src:
+ViaVersion
+Lazarus JAR
+Bukkit/Spigot/SpigotApi
+
 ## Screenshots
 Preview:
 
