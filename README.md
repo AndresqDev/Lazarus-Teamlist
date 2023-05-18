@@ -1,7 +1,8 @@
 # Teamlist For Lazarus HCF
 
 ## Simple for add teamlist to Lazarus
-
+Download .JAR:
+- > https://discord.gg/jr4A3y3nzq
 Features:
 - Configurable
 - Optimized (Update rate is configurable)
