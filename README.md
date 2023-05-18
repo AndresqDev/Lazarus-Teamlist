@@ -6,3 +6,5 @@ Features:
 - Configurable
 - Optimized (Update rate is configurable)
 - Simple & Easy to setup!
+
+[![Preview]](https://cdn.discordapp.com/attachments/1066599943378325525/1108499143472718037/image.png)
