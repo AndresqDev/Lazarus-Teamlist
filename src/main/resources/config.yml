@@ -1,0 +1,6 @@
+TEAMLIST_NAME: "&5&lTeamList"
+START_SLOT: 63
+NUMBER_OF_TEAMS: 10
+PLACEHOLDER: "<number> <team> &7(<members>) <dtr>"
+
+TEAMLIST_UPDATE_INTERVAL: 200 #In ticks.

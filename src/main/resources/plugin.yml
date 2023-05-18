@@ -1,0 +1,8 @@
+name: Addon-Tab
+main: volcanic.tab.lazarus.Main
+description: Created by volcanic services.
+author: Andresq, Volcanic
+version: ${project.version}
+
+depend:
+  - Lazarus
