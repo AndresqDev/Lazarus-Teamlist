@@ -1,6 +1,6 @@
 # Teamlist For Lazarus HCF
 
-## Simple for add teamlist to Lazarus
+## Simple addon for add teamlist to Lazarus
 Download .JAR:
 - > https://discord.gg/jr4A3y3nzq
 
@@ -9,10 +9,10 @@ Features:
 - Optimized (Update rate is configurable)
 - Simple & Easy to setup!
 
-Dependends:
+Depends:
 - ViaVersion
 
-Libs to compile this src:
+Libs for compile this src:
 ViaVersion
 Lazarus JAR
 Bukkit/Spigot/SpigotApi
